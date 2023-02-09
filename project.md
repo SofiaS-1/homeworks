@@ -28,4 +28,3 @@ git склонирует репозиторий из GitHub
 >git commit "код сохранен"
 
 ![котик](https://ih1.redbubble.net/image.2939680403.5780/pp,840x830-pad,1000x1000,f8f8f8.jpg/)
-
